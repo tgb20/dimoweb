@@ -35,7 +35,7 @@ youtube_username                          : orangehaus
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Full featured Pterodactyl panel
+  - title                                 : Full Pterodactyl panel
     description                           : Designed to be fully compliant with the Pterodactyl API.
     fontawesome_icon_name                 : check
     

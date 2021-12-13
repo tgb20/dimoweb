@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Built native for iOS and macOS
     description                           : Support for the Apple Watch and Widgets.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : apple
 
   - title                                 : Automaticly sync your devices
     description                           : Enter your panel details once and have access on all your devices.

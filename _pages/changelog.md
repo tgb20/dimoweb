@@ -20,7 +20,7 @@ include_in_header: true
 
 <br>
 
-# **Version 1.0 Beta 9**
+## **Version 1.0 Beta 9**
 
 #### What's New
 - New Icon
@@ -30,7 +30,7 @@ include_in_header: true
 
 <br>
 
-# **Version 1.0 Beta 8**
+## **Version 1.0 Beta 8**
 
 #### What's New
 - Open app to Testflight testers

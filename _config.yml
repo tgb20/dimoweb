@@ -35,15 +35,15 @@ youtube_username                          : orangehaus
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Full features Pterodactyl panel
+  - title                                 : Full featured Pterodactyl panel
     description                           : Designed to be fully compliant with the Pterodactyl API.
-    fontawesome_icon_name                 : egg
+    fontawesome_icon_name                 : check
     
-  - title                                 : Built Native for iOS and MacOS
-    description                           : Leverage the full power of your device with support for the Apple Watch and Widgets.
+  - title                                 : Built native for iOS and macOS
+    description                           : Support for the Apple Watch and Widgets.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Automaticly syncs your devices
+  - title                                 : Automaticly sync your devices
     description                           : Enter your panel details once and have access on all your devices.
     fontawesome_icon_name                 : sync
 

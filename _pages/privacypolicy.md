@@ -5,7 +5,13 @@ include_in_header: false
 ---
 
 **Last updated**  
-December 10 2021
+Janurary 25 2022
 
 # Privacy Policy
-We don't store your data.
+Dimo the app does not store user information.
+
+Dimo connects to remote Pterodactyl panels that are covered under their own privacy policies. 
+
+Dimo is distributed on the Apple App Store and uses its metrics system. Apple has its own EULA covering App Store usage available here: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Dimo is commited to protecting user information. If you would like a purge of all information from our Apple dashboard related to you, if there is any available, contact us at developer@orange.haus.
